@@ -7,7 +7,7 @@
 🌱 I’m currently learning: Typescript and Go
 
 ### Now Playing:
-[![Spotify](https://novatorem.ereshzealous.vercel.app/api/spotify)](https://open.spotify.com/user/amodernmystery)
+[![Spotify](https://novatorem-ochre.vercel.app/api/spotify)](https://open.spotify.com/user/amodernmystery)
 
 <!--
 **nicfitzgerald/nicfitzgerald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
