@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, my name is Nic 👋
+
+## I am a 26 year old, non-binary developer.
+
+😄 Pronouns: they/them, but he/they is also acceptable :)
+🔭 I’m currently working on: Building a Spotify CLI agent & Last.fm collage generator
+🌱 I’m currently learning: Typescript and Go
+
+### Now Playing:
+[![Spotify](https://novatorem.ereshzealous.vercel.app/api/spotify)](https://open.spotify.com/user/amodernmystery)
 
 <!--
 **nicfitzgerald/nicfitzgerald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
