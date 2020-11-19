@@ -2,9 +2,9 @@
 
 ## I am a 26 year old, non-binary developer.
 
-😄 Pronouns: they/them, but he/they is also acceptable :)
-🔭 I’m currently working on: Building a Spotify CLI agent & Last.fm collage generator
-🌱 I’m currently learning: Typescript and Go
+😄 Pronouns: they/them, but he/they is also acceptable :) <br />
+🔭 I’m currently working on: Building a Spotify CLI agent & Last.fm collage generator <br />
+🌱 I’m currently learning: Typescript and Go <br />
 
 ### Now Playing:
 [![Spotify](https://novatorem-ochre.vercel.app/api/spotify)](https://open.spotify.com/user/amodernmystery)
