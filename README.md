@@ -1,6 +1,5 @@
 ### Hi there, my name is Nic 👋
-
-## I am a 26 year old, non-binary developer.
+# I am a 26 year old, non-binary developer.
 
 😄 Pronouns: they/them, but he/they is also acceptable :) <br />
 🔭 I’m currently working on: Building a Spotify CLI agent & Last.fm collage generator <br />
@@ -8,6 +7,25 @@
 
 ### Now Playing:
 [![Spotify](https://novatorem-ochre.vercel.app/api/spotify)](https://open.spotify.com/user/amodernmystery)
+
+
+### Connect With Me:
+
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="stackoverflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />][stackoverflow]
+[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
+
+<br />
+<br />
+
+### My Current Technology Stack:
+
+<img align="left" alt="React" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/react.svg" />
+
+
+[blog]: https://dev.to/nicfitzgerald
+[linkedin]: https://linkedin.com/in/nicfitzgerald/
+[facebook]: https://www.facebook.com/nicfitzgerald378/
 
 <!--
 **nicfitzgerald/nicfitzgerald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
