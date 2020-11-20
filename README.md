@@ -21,7 +21,10 @@
 ### My Current Technology Stack:
 
 <img align="left" alt="React" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/react.svg" />
-
+<img align="left" alt="React" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/typescript.svg" />
+<img align="left" alt="React" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/go.svg" />
+<img align="left" alt="React" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/digitalocean.svg" />
+<img align="left" alt="React" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/kubernetes.svg" />
 
 [blog]: https://dev.to/nicfitzgerald
 [linkedin]: https://linkedin.com/in/nicfitzgerald/
