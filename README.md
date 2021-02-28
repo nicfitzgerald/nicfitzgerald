@@ -2,8 +2,9 @@
 # I am a 26 year old, non-binary developer.
 
 😄 Pronouns: they/them, but he/they is also acceptable :) <br />
-🔭 I’m currently working on: Building a Spotify CLI agent & Last.fm collage generator <br />
-🌱 I’m currently learning: Typescript and Go <br />
+🔭 I’m currently working on: Roguelikes with Rust <br />
+🌱 I’m currently learning: Rust and Flutter <br />
+⚡ Fun fact: the Octopus is my favorite animal, with my love being specifically being ignited by [The Oatmeal](https://theoatmeal.com/story/octopus)
 
 ### Now Playing:
 [![Spotify](https://novatorem-nicfitzgerald.vercel.app/api/spotify)](https://open.spotify.com/user/amodernmystery)
@@ -20,11 +21,11 @@
 
 ### My Current Technology Stack:
 
-<img align="left" alt="React" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/react.svg" />
-<img align="left" alt="React" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/typescript.svg" />
-<img align="left" alt="React" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/go.svg" />
-<img align="left" alt="React" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/digitalocean.svg" />
-<img align="left" alt="React" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/kubernetes.svg" />
+<img align="left" alt="React" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/react.svg" />
+<img align="left" alt="TypeScript" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/typescript.svg" />
+<img align="left" alt="Rust" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/rust.svg" />
+<img align="left" alt="Digital Ocean" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/digitalocean.svg" />
+<img align="left" alt="Kubernetes" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/kubernetes.svg" />
 
 [blog]: https://dev.to/nicfitzgerald
 [linkedin]: https://linkedin.com/in/nicfitzgerald/
