@@ -6,7 +6,7 @@
 🌱 I’m currently learning: Typescript and Go <br />
 
 ### Now Playing:
-[![Spotify](https://novatorem-ochre.vercel.app/api/spotify)](https://open.spotify.com/user/amodernmystery)
+[![Spotify](https://novatorem-nicfitzgerald.vercel.app/api/spotify)](https://open.spotify.com/user/amodernmystery)
 
 
 ### Connect With Me:
