@@ -24,7 +24,7 @@
 <img align="left" alt="React" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/react.svg" />
 <img align="left" alt="TypeScript" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/typescript.svg" />
 <img align="left" alt="Rust" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/rust.svg" />
-<img align="left" alt="Digital Ocean" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/digitalocean.svg" />
+<img align="left" alt="Digital Ocean" width="50px" src="stack/digitalocean.svg" />
 
 [blog]: https://dev.to/nicfitzgerald
 [linkedin]: https://linkedin.com/in/nicfitzgerald/
