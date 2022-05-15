@@ -1,9 +1,9 @@
 ### Hi there, my name is Nic 👋
-# I am a 26 year old, non-binary developer.
+# I am a 28 year old, non-binary developer.
 
-😄 Pronouns: they/them, but he/they is also acceptable :) <br />
-🔭 I’m currently working on: Roguelikes with Rust <br />
-🌱 I’m currently learning: Rust and Flutter <br />
+😄 Pronouns: they/them <br />
+🔭 I’m currently working on: My personal portfolio - coming soon! <br />
+🌱 I’m currently learning: React with TypeScript! <br />
 ⚡ Fun fact: the Octopus is my favorite animal, with my love being specifically being ignited by [The Oatmeal](https://theoatmeal.com/story/octopus)
 
 ### Now Playing:
@@ -25,7 +25,6 @@
 <img align="left" alt="TypeScript" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/typescript.svg" />
 <img align="left" alt="Rust" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/rust.svg" />
 <img align="left" alt="Digital Ocean" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/digitalocean.svg" />
-<img align="left" alt="Kubernetes" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/kubernetes.svg" />
 
 [blog]: https://dev.to/nicfitzgerald
 [linkedin]: https://linkedin.com/in/nicfitzgerald/
