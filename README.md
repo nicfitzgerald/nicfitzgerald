@@ -15,6 +15,7 @@
 [<img align="left" alt="Dev.to" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />][blog]
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
+[<img align="left" alt="Twitter" src="https://img.shields.io/twitter/follow/nicdotrs?color=fff&style=for-the-badge" />][twitter]
 
 <br />
 <br />
@@ -29,7 +30,7 @@
 [blog]: https://dev.to/nicfitzgerald
 [linkedin]: https://linkedin.com/in/nicfitzgerald/
 [facebook]: https://www.facebook.com/nicfitzgerald378/
-
+[twitter]: https://twitter.com/nicdotrs
 <!--
 **nicfitzgerald/nicfitzgerald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
