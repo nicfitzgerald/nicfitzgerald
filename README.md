@@ -1,14 +1,11 @@
 ### Hi there, my name is Nic 👋
+
 # I am a 28 year old, non-binary developer.
 
 😄 Pronouns: they/them <br />
-🔭 I’m currently working on: My personal portfolio - coming soon! <br />
-🌱 I’m currently learning: React with TypeScript! <br />
+🔭 I’m currently working on: a small Windows utility using Go and Fyne <br />
+🌱 I’m currently learning: Go :) <br />
 ⚡ Fun fact: the Octopus is my favorite animal, with my love being specifically being ignited by [The Oatmeal](https://theoatmeal.com/story/octopus)
-
-### Now Playing:
-[![Spotify](https://novatorem-nicfitzgerald.vercel.app/api/spotify)](https://open.spotify.com/user/amodernmystery)
-
 
 ### Connect With Me:
 
@@ -22,15 +19,17 @@
 
 ### My Current Technology Stack:
 
-<img align="left" alt="React" width="50px" src="stack/react.svg" />
-<img align="left" alt="TypeScript" width="50px" src="stack/typescript.svg" />
-<img align="left" alt="Rust" width="50px" src="stack/rust.svg" />
-<img align="left" alt="Digital Ocean" width="50px" src="stack/digitalocean.svg" />
+<img align="left" alt="React" width="50px" src="https://simpleicons.org/icons/react.svg" />
+<img align="left" alt="TypeScript" width="50px" src="https://simpleicons.org/icons/typescript.svg" />
+<img align="left" alt="Go" width="50px" src="https://simpleicons.org/icons/go.svg" />
+<img align="left" alt="Digital Ocean" width="50px" src="https://simpleicons.org/icons/digitalocean.svg" />
+<img align="left" alt="Linode" width="50px" src="https://simpleicons.org/icons/linode.svg" />
 
 [blog]: https://dev.to/nicfitzgerald
 [linkedin]: https://linkedin.com/in/nicfitzgerald/
 [facebook]: https://www.facebook.com/nicfitzgerald378/
 [twitter]: https://twitter.com/nicdotrs
+
 <!--
 **nicfitzgerald/nicfitzgerald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
