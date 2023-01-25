@@ -19,11 +19,11 @@
 
 ### My Current Technology Stack:
 
-<img style="color:#fff" align="left" alt="React" width="50px" src="https://simpleicons.org/icons/react.svg" />
-<img style="color:#fff" align="left" alt="TypeScript" width="50px" src="https://simpleicons.org/icons/typescript.svg" />
-<img style="color:#fff" align="left" alt="Go" width="50px" src="https://simpleicons.org/icons/go.svg" />
-<img style="color:#fff" align="left" alt="Digital Ocean" width="50px" src="https://simpleicons.org/icons/digitalocean.svg" />
-<img style="color:#fff" align="left" alt="Linode" width="50px" src="https://simpleicons.org/icons/linode.svg" />
+<img align="left" alt="React" width="50px" src="stack/react.svg" />
+<img align="left" alt="TypeScript" width="50px" src="stack/ts.svg" />
+<img align="left" alt="Go" width="50px" src="stack/go.svg" />
+<img align="left" alt="Digital Ocean" width="50px" src="stack/do.svg" />
+<img align="left" alt="Linode" width="50px" src="stack/linode.svg" />
 
 [blog]: https://dev.to/nicfitzgerald
 [linkedin]: https://linkedin.com/in/nicfitzgerald/
